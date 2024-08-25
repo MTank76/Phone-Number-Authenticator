@@ -20,12 +20,12 @@ A simple Django-based Phone Number Authenticator developed during my early learn
    ```
 2.  **Apply Migrations**:
     ```bash
-    python3 manage.py makemigrations
-    python3 manage.py migrate
+    python manage.py makemigrations
+    python manage.py migrate
     ```
 3.  **Run the Server**:
     ```bash
-    python3 manage.py runserver
+    python manage.py runserver
     ```
 4. **Access the application:**
 
