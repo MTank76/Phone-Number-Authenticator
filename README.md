@@ -34,4 +34,4 @@ A simple Django-based Phone Number Authenticator developed during my early learn
 
 ## Contributing
 
-If you'd like to contribute to Task Master, please fork the repository and submit a pull request with your changes. For bug reports or feature requests, open an issue on GitHub.
+If you'd like to contribute to Phone-Number-Authenticator, please fork the repository and submit a pull request with your changes. For bug reports or feature requests, open an issue on GitHub.
